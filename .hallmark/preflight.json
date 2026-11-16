@@ -1,0 +1,12 @@
+{
+  "scanned": "2026-11-16",
+  "findings": {
+    "fonts": "none",
+    "palette": "none",
+    "motion": "none",
+    "spacing": "none",
+    "framework": "none"
+  },
+  "preserve": [],
+  "introduce": ["Almanac tokens", "Index-First overview", "app shell", "gates"]
+}

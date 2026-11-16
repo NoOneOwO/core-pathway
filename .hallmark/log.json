@@ -1,0 +1,25 @@
+[
+ {
+  "mode": "build",
+  "scope": "app",
+  "shape": "Index-First",
+  "theme": "Almanac",
+  "axes": "mid/grotesk-sans/chromatic-magenta",
+  "hero": "Corridor",
+  "nav": "banner over a retracting bar",
+  "footer": "index columns",
+  "imagery": "none",
+  "entry": "the six-stage register",
+  "fingerprint": "index-first-almanac-pathway",
+  "sections": [
+   "Overview",
+   "Stage register",
+   "Team",
+   "Decision register"
+  ],
+  "signature": "the six-stage register",
+  "prompt": "Educational rehabilitation pathway and AI support register",
+  "waived": [],
+  "date": "2026-11-16"
+ }
+]
